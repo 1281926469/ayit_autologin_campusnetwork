@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run ".\Campus_Network.bat",0
